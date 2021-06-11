@@ -9,6 +9,6 @@ public class Phone {
     }
 
     public void connectivity(){
-        System.out.println("3G");
+        System.out.println("3G connectivity");
     }
 }
